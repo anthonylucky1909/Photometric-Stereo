@@ -11,15 +11,6 @@ Photometric Stereo has widespread applications in computer vision, 3D modeling, 
 - **Albedo Recovery**: The algorithm estimates the albedo (reflectivity) of the object surfaces, crucial for realistic rendering and scene understanding.
 - **Surface Re-rendering**: Using the recovered surface properties (normals and albedo), the system re-renders the object from novel perspectives or under different lighting conditions.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Setup](#setup)
-- [Composition](#composition)
-- [Results](#results)
-- [License](#license)
-- [References](#references)
-
 ## Introduction
 
 ### The Principle of Photometric Stereo
